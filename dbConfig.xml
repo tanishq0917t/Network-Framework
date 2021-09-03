@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database>
+<architecture>MySQL</architecture>
+<version>8.0.22</version>
+<host>localhost</host>
+<port>3306</port>
+<user>user_name</user>
+<password>password</password>
+<name>database_name</name>
+</database>
